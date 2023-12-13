@@ -1,0 +1,17 @@
+.reportbox {
+    margin-top: 3.5rem;
+    margin-left:30%;
+    margin-right:30%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.reportbox h2, h4{
+    padding-bottom: 30px;
+   
+}
+
+.ibox {
+    height:200px;
+    width: 600px;
+    
+}

@@ -1,0 +1,49 @@
+.Home{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Home h1{
+    color:#1A2C5B;
+    padding-bottom: 26px;
+}
+.img1 {
+    height: 280px;
+    width: 280px;
+}
+.img2 {
+    height: 160px;
+    width: 160px;
+    margin-top: 22px;
+}
+.img4 {
+    padding-left: 35px;
+    padding-top: 15px;
+}
+.firstt{
+    font-size: 22px;
+}
+
+.textt {
+    font-size: 21px;
+    margin-top: 4rem;
+}
+
+.doctor p{
+        font-size: 21px;
+      padding-left: 20px;
+    
+}
+.doctor h3{
+    color:#338c94;
+    margin-top: 1.5rem;
+    margin-bottom:  1.5rem;
+
+
+}
+
+.endline {
+    padding-top: 7rem;
+    font-size: 21px;
+    font-family:'Brush Script MT', Brush Script Std;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+.Upload {
+    background-color: #B8DFF0;
+    align-items: center;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head {
+    text-align: center;
+    font-size: 46px;
+    color: rgb(37, 67, 88);  
+     
+}
+
+.uform {
+    font-size: 18px;
+    margin-top: 4%;
+    margin-left: 9%;
+    margin-right: 10%;
+    padding-bottom: 19px;
+
+}
+
+.left {
+    
+    padding-right: 4rem;
+}
+
+/*.right{
+    margin-left: 5%;
+    margin-right: 10%;
+}*/
+.last {
+    margin-left: 51%; 
+margin-right: 0;
+    
+}
+
+.btt {
+    margin-top: 6%;
+    padding-left: 40%;
+    
+   
+   
+}

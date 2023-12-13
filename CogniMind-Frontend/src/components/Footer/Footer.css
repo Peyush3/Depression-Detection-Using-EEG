@@ -1,0 +1,26 @@
+/* Footer.css */
+
+/* Style the footer container */
+.container {
+    background-color: #f8f9fa;
+    /* Background color */
+    border-top: 1px solid #ccc;
+    /* Top border */
+    padding: 20px 0;
+    /* Padding */
+}
+
+/* Style the navigation links */
+.nav-link {
+    text-decoration: none;
+    /* Remove underline */
+    margin: 0 10px;
+    /* Spacing between links */
+    transition: color 0.3s;
+    /* Smooth color transition */
+}
+
+.nav-link:hover {
+    color: #333;
+    /* Change color on hover */
+}
